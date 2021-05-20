@@ -5,7 +5,7 @@
 ```sh
 ```
 
-## Server
+## Serverd
 
 ```sh
 npm init
